@@ -10,6 +10,8 @@ There may be situations where extension will not handle the job correctly for va
 
 The extension is provided as source files or zip file, that just contain those files and is provided only for convenience. IT IS NOT provided via Chrome Extensions store, at least for now.
 
+You can download [v1.0.0. ZIP file here](https://github.com/HybridLizard/web-nope/releases/download/1.0.0/web-nope_1_0_0.zip) or find it in Releases page linked in right menu.
+
 Notes:
 
 - Extension execute all the code on user's computer, NOTHING is send anywhere for some processing etc.
@@ -23,3 +25,5 @@ Installation:
 3. Enable "Developer Mode" in top-right corner.
 4. Pick directory with downloaded files / unpacked zip.
 5. Check it in action e.g. on that Google owned website with some WEBP images: https://developers.google.com/speed/webp/gallery1
+
+There are more screenshots in *screenshots* directory.
